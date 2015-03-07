@@ -1,0 +1,1 @@
+[http://blog.wcalderipe.com](http://blog.wcalderipe.com "wcalderipe's blog")
