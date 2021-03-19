@@ -97,7 +97,17 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: cactus 
+
+theme_config:
+  colorscheme: dark
+
+  social_links:
+    github: https://github.com/wcalderipe 
+    linkedin: https://www.linkedin.com/in/wcalderipe
+    twitter: https://twitter.com/wcalderipe
+    mail: mailto:wcalderipe@gmail.com
+
 
 # Deployment
 deploy:
