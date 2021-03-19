@@ -1,9 +1,9 @@
 name: Pages
 
-on:
-  push:
-    branches:
-      # Disable automatic deployment. For now, I'll deploy drafts manually using the CLI.
+# Disable automatic deployment. For now, I'll deploy drafts manually using the CLI.
+# on:
+  # push:
+  #   branches:
       # - draft
 
 jobs:
